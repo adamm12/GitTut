@@ -7,6 +7,7 @@ public class Athlete {
 	private int jerseyNum;
 	private String sport;
 	
+	// Athlete Constructor
 	public Athlete(String firstname, String lastname, String sport) {
 		// TODO Auto-generated constructor stub
 		FIRSTNAME = firstname;
