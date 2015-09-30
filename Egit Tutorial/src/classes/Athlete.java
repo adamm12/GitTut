@@ -33,7 +33,7 @@ public class Athlete {
 		return FIRSTNAME + " " + LASTNAME;
 	}
     
-    public String getSport() {
+    public String getSportssssss() {
 		return sport;
 	}
     
