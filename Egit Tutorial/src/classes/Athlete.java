@@ -1,10 +1,10 @@
 package classes;
 
 public class Athlete {
-	
+	// Class fields
 	private String FIRSTNAME;
 	private String LASTNAME;
-	private int jerseyNum;
+	private int jerseyNum = 0;
 	private String sport;
 	
 	// Athlete Constructor
@@ -13,7 +13,6 @@ public class Athlete {
 		FIRSTNAME = firstname;
 		LASTNAME = lastname;
 		this.sport = sport;
-		jerseyNum = 0;
 	}
 	
 
